@@ -104,9 +104,10 @@ Para correr el programa:
 
 ```bash
 python python-16.py
-
+```
 ```bash
 python python-16-comentado.py
-
+```
 ```bash
 python python-16-forem.py
+```
