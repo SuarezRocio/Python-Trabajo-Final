@@ -103,4 +103,6 @@ El sistema crea automáticamente una base de datos SQLite local (`inventario.db`
 Para correr el programa:
 
 ```bash
-python inventario.py
+python python-16.py
+python python-16-comentado.py
+python python-16-forem.py
